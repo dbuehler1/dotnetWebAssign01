@@ -1,7 +1,10 @@
 ﻿body {
     font-family: 'Anton', sans-serif;
     background-color: gray;
+    
+    
 }
+
 
 .discounts {
     border-radius: 10px;
@@ -17,4 +20,7 @@
     position: absolute;
     top: 65px;
     right: 10px;
+    
 }
+
+
